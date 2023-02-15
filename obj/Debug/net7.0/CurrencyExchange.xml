@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CurrencyExchange</name>
+    </assembly>
+    <members>
+        <member name="M:CurrencyExchange.Services.CurrencyService.GetRate(CurrencyExchange.Models.Currency)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
